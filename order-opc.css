@@ -18,7 +18,7 @@
       font-style: italic;
       color: #333;
       position: absolute;
-      left: 10px;
+      left: 15px;
       top: -14px; }
   #order-opc .form-group {
     margin-bottom: 2px; }
@@ -62,6 +62,8 @@
 #new_account_form .id_state,
 #new_account_form .dni,
 #new_account_form .postcode {
-  display: none; }
+  display: none; 
+	text:
+}
 
 /*# sourceMappingURL=order-opc.css.map */
